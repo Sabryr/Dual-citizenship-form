@@ -6,11 +6,14 @@ permalink: /application-demo/
 
 # Exmple Application for Dual Citizenship (Resumption / Retention)
 
-Author: Sabry Razick Ph.D
-Date: 26-07-2026
-Contact email: sabryr@gmail.com
+* Author: Sabry Razick Ph.D
+* Date: 26-07-2026
+* Contact email: sabryr@gmail.com
 
-This document is prepared to provide suggestions to improve the applicants  experience when submitting an application form for dual citizenship. I have my self filled this form and also assisted many applicants during an mobile consular session. 
+- Link to original form : https://stockholm.embassy.gov.lk/wp-content/uploads/2026/07/Resumption.pdf
+- Hosted at: https://stockholm.embassy.gov.lk
+
+This document is prepared to provide suggestions to improve the applicants  experience when submitting an application form for dual citizenship. I have my self filled the current form and also assisted many applicants during an mobile consular session. 
 
 Consolidating redundant information requests would greatly improve the user experience, reduce applicant fatigue, and minimize the risk of contradictory information being submitted.
 
