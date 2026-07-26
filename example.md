@@ -9,9 +9,8 @@ permalink: /application-demo/
 * Author: Sabry Razick Ph.D
 * Date: 26-07-2026
 * Contact email: sabryr@gmail.com
-
-- Link to original form : https://stockholm.embassy.gov.lk/wp-content/uploads/2026/07/Resumption.pdf
-- Hosted at: https://stockholm.embassy.gov.lk
+* Link to original form : https://stockholm.embassy.gov.lk/wp-content/uploads/2026/07/Resumption.pdf
+* Original form Hosted at: https://stockholm.embassy.gov.lk
 
 This document is prepared to provide suggestions to improve the applicants  experience when submitting an application form for dual citizenship. I have my self filled the current form and also assisted many applicants during an mobile consular session. 
 
@@ -53,6 +52,7 @@ Beyond the major fields above, there are several other areas where the applicati
 
 To streamline the form and reduce confusion, the issuing authority should consider merging the Personal Particulars Form and the Computerised Data Sheet directly into Initial form. By creating a single, unified "Applicant Information" section at the beginning of the document, the applicant would only need to write their name, birth details, contact information, and family history once.
 
+As printers are used less in European housholds and we also recomend tha this form to availble for online submission. An example is provided below.
 
 ## Please not that this an example to suggest improvments and not an form you should use**
 
