@@ -6,11 +6,52 @@ permalink: /application-demo/
 
 # Exmple Application for Dual Citizenship (Resumption / Retention)
 
-Sabry Razick Ph.D, sabryr@gmail.com
+Author: Sabry Razick Ph.D
+Date: 26-07-2026
+Contact email: sabryr@gmail.com
 
-**Please not that this an example to suggest improvments and not an form you should use**
+This document is prepared to provide suggestions to improve the applicants  experience when submitting an application form for dual citizenship. I have my self filled this form and also assisted many applicants during an mobile consular session. 
 
-This form consolidates Form "S", the Personal Particulars Form, and the Computerised Data Sheet into a single, interactive application.
+Consolidating redundant information requests would greatly improve the user experience, reduce applicant fatigue, and minimize the risk of contradictory information being submitted.
+
+### Redundancies across forms
+
+The following table highlights the most prominent duplicate information requested across the different sections of the document:
+
+The form contains three sub forms 
+1. Initial form
+2. Personal Particulars Form
+3. Computerised Data Sheet
+
+| Data Field | Initial form | Personal Particulars Form | Computerized Data Sheet |
+| --- | --- | --- | --- |
+| Applicant Name | Requests Full Name and Name with Initials in Section 2.01.| Requests Name in Full in Question 01.| Requests Full Name in Question 1.|
+| Date & Place of Birth | Requests Date and Place of Birth in Section 2.03. | Requests Date, Place, and Country of Birth in Question 02. | Requests Date and Place of Birth in Questions 4 and 5.|
+| Contact Details | Requests Addresses (Sri Lankan and Foreign), Email, and Contact Number in Section 2.02. | Requests Foreign Address, Previous Sri Lankan Address, Email, and Phone Numbers in Questions 08, 12, 13, 14, and 15. | Requests Address, Email, and Phone Numbers in Questions 2, 10, and 11.|
+| Profession | Requests Profession or Occupation in Section 2.08.| Requests Profession or Occupation in Question 07. | Requests Profession or Occupation in Question 3.|
+| Parental Details | Requests Father's and Mother's Names, Date of Birth, and Place of Birth in Section 4.01. | Requests Father's and Mother's Names and Sri Lankan Addresses in Questions 18 and 19.| Requests Father's and Mother's Names with Initials in Questions 6 and 7. |
+|Foreign Citizenship | Requests Country, Date Acquired, Certificate Number, and Passport Number in Section 3. | Requests Present/Previous Citizenship, Date Acquired, and Foreign Passport Number in Questions 04, 05, 06, and 11. | Requests particulars of other nationalities in Question 9.|
+
+### Additional Redundant Information
+
+Beyond the major fields above, there are several other areas where the application asks for duplicate or overlapping information:
+
+* Spouse Details: Form Initial form asks for the spouse's name and nationality. The Personal Particulars form repeats this and additionally asks for previous citizenship, passport number, and address.
+
+
+* Children Details: Form Initial form requires the name, date of birth, and nationality of children. The Personal Particulars form separately asks for their names, sex, and date of birth.
+
+* Sri Lankan Passport/NIC: Form Initial form asks for the National Identity Card number and previous Sri Lankan passport details. The Personal Particulars form repeats the request for the NIC number, passport number, and issue dates.
+
+* Checklist Repetition: The cover page checklist requests the applicant's Contact No, Email Address, and Residential Address, which are already heavily repeated in the core forms.
+
+
+### Recommendations for Improvement
+
+To streamline the form and reduce confusion, the issuing authority should consider merging the Personal Particulars Form and the Computerised Data Sheet directly into Initial form. By creating a single, unified "Applicant Information" section at the beginning of the document, the applicant would only need to write their name, birth details, contact information, and family history once.
+
+
+## Please not that this an example to suggest improvments and not an form you should use**
 
 <form id="demoForm" style="max-width: 900px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fcfcfc;">
         
