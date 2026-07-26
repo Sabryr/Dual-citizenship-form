@@ -6,7 +6,7 @@ permalink: /application-demo/
 
 # Exmple Application for Dual Citizenship (Resumption / Retention)
 
-Sabry Razick, sabryr@gmail.com
+Sabry Razick Ph.D, sabryr@gmail.com
 
 **Please not that this an example to suggest improvments and not an form you should use**
 
