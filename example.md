@@ -359,7 +359,7 @@ To streamline the form and reduce confusion, the issuing authority should consid
         <textarea name="treasuryBonds" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; height: 60px; resize: vertical;"></textarea>
     </fieldset>
 
-    <button type="submit" style="background-color: #004494; color: white; padding: 12px 25px; border: none; border-radius: 4px; font-size: 1.1em; cursor: pointer; display: block; width: 100%; margin-top: 20px;">Submit Comprehensive Application (Demo)</button>
+    <button type="submit" style="background-color: #004494; color: white; padding: 12px 25px; border: none; border-radius: 4px; font-size: 1.1em; cursor: pointer; display: block; width: 100%; margin-top: 20px;">Submit (Demo)</button>
 </form>
 
 <script>
