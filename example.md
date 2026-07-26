@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Example Dual Citizenship Application
+title: Improvement suggestions for Dual Citizenship Application
 permalink: /application-demo/
 ---
 
-# Exmple Application for Dual Citizenship (Resumption / Retention)
+# Dual Citizenship (Resumption / Retention) - possible improvements
 
 * Author: Sabry Razick Ph.D
 * Date: 26-07-2026
