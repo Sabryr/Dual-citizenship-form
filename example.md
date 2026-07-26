@@ -52,9 +52,9 @@ Beyond the major fields above, there are several other areas where the applicati
 
 To streamline the form and reduce confusion, the issuing authority should consider merging the Personal Particulars Form and the Computerised Data Sheet directly into Initial form. By creating a single, unified "Applicant Information" section at the beginning of the document, the applicant would only need to write their name, birth details, contact information, and family history once.
 
-As printers are used less in European housholds and we also recomend tha this form to availble for online submission. An example is provided below.
+** As printers are used less in European housholds and we also recomend tha this form to availble for online submission. An example is provided below.**
 
-## Please not that this an example to suggest improvments and not an form you should use**
+## Please not that this an example to suggest improvments and not an form you should use
 
 <form id="demoForm" style="max-width: 900px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fcfcfc;">
         
