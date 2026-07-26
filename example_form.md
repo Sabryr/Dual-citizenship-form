@@ -1,6 +1,12 @@
+---
+layout: page
+title: Dual Citizenship Application
+permalink: /application-demo/
+---
+
 # Dual Citizenship Application (Resumption)
 
-This form is an interactive demonstration for consolidating applicant data. It is rendered directly through the Sphinx build pipeline.
+This form is an interactive demonstration for consolidating applicant data. It is rendered directly through GitHub Pages using standard HTML embedded within Markdown.
 
 ### Applicant Details
 
@@ -46,11 +52,8 @@ Please fill out the required personal and contact information below.
 
 <script>
   document.getElementById('demoForm').addEventListener('submit', function(event) {
+    // Prevents the page from reloading and appending variables to the URL
     event.preventDefault();
     alert('This is a demonstration form. No data has been submitted or stored.');
   });
 </script>
-
----
-
-**Note on Compilation:** Ensure your `conf.py` is configured with `myst_parser` in the `extensions` list. The HTML embedded above will pass directly through the AST to your final static output.
