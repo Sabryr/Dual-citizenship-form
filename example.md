@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Dual Citizenship Application
+title: Example Dual Citizenship Application
 permalink: /application-demo/
 ---
 
-# Application for Dual Citizenship (Resumption / Retention)
+# Exmple Application for Dual Citizenship (Resumption / Retention)
+
+Sabry Razick, sabryr@gmail.com
+
+**Please not that this an example to suggest improvments and not an form you should use**
 
 This form consolidates Form "S", the Personal Particulars Form, and the Computerised Data Sheet into a single, interactive application.
 
